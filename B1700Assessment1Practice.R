@@ -37,6 +37,12 @@ rm(url) # Code used to keep the 'environment' section tidy
 
 # We now have two dataframes which we may or may not use, 'NBAData' and 'PracData'
 
+# 4) Creating a markdown document in R
+# Basic R Markdown document has been created, with items added to it as tasks progress
 
+# 5) Make sure code is commented appropriately 
+# All tasks will be commented with description of code purpose as the practice progresses
+
+# 6)
 
   
